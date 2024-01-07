@@ -1,0 +1,54 @@
+.user-profile {
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    border: 15px;
+    border-style: double;
+    margin-top: 15px;
+}
+
+.user-description {
+    height: 100%;
+    width:  100%;
+}
+
+.verticalLine {
+    border-left: thick solid #0073ff;
+    margin-top: 15px;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+.footer {
+   
+    margin-top: 350;
+    text-align: center;
+    background: #bc1a1a;
+    color: white;
+    font-size: 30px;
+} 
+.name-square{
+    width: 27%;
+    height: 50%;
+    background: #1abc9c;
+    text-align: center;
+    border-radius: 26px;
+    color: white;
+    margin-top: 2%;
+}
+
+.description-square{
+    background: #1abc9c;
+    text-align: justify;
+    border-radius: 5px;
+    color: white;
+    width: 80%;
+    height: 100px;
+}
+
